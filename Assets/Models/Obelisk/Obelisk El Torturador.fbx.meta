@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: b55c74f999d0243cab5fa9df15651cab
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm left elbow
+    100002: arm left finger 1a
+    100004: arm left finger 1b
+    100006: arm left finger 2a
+    100008: arm left finger 2b
+    100010: arm left finger 3a
+    100012: arm left finger 3b
+    100014: arm left finger 4a
+    100016: arm left finger 5a
+    100018: arm left finger 5b
+    100020: arm left hand
+    100022: arm left shoulder
+    100024: arm right elbow
+    100026: arm right finger 1a
+    100028: arm right finger 1b
+    100030: arm right finger 2a
+    100032: arm right finger 2b
+    100034: arm right finger 3a
+    100036: arm right finger 3b
+    100038: arm right finger 4a
+    100040: arm right finger 4b
+    100042: arm right finger 5a
+    100044: arm right finger 5b
+    100046: arm right hand
+    100048: arm right shoulder
+    100050: Bone.018
+    100052: head neck lower
+    100054: head neck upper
+    100056: leg left foot
+    100058: leg left knee
+    100060: leg left kneepad
+    100062: leg left thigh
+    100064: leg left toe a
+    100066: leg left toe b
+    100068: leg left toe c
+    100070: leg left toe d
+    100072: leg right foot
+    100074: leg right knee
+    100076: leg right kneepad
+    100078: leg right thigh
+    100080: leg right toe a
+    100082: leg right toe b
+    100084: leg right toe c
+    100086: leg right toe d
+    100088: Obelisk
+    100090: //RootNode
+    100092: Rig
+    100094: root ground
+    100096: spine lower
+    100098: spine upper
+    100100: wing left 1
+    100102: wing left a
+    100104: wing left b
+    100106: wing left c
+    100108: wing right 1
+    100110: wing right a
+    100112: wing right b
+    100114: wing right c
+    400000: arm left elbow
+    400002: arm left finger 1a
+    400004: arm left finger 1b
+    400006: arm left finger 2a
+    400008: arm left finger 2b
+    400010: arm left finger 3a
+    400012: arm left finger 3b
+    400014: arm left finger 4a
+    400016: arm left finger 5a
+    400018: arm left finger 5b
+    400020: arm left hand
+    400022: arm left shoulder
+    400024: arm right elbow
+    400026: arm right finger 1a
+    400028: arm right finger 1b
+    400030: arm right finger 2a
+    400032: arm right finger 2b
+    400034: arm right finger 3a
+    400036: arm right finger 3b
+    400038: arm right finger 4a
+    400040: arm right finger 4b
+    400042: arm right finger 5a
+    400044: arm right finger 5b
+    400046: arm right hand
+    400048: arm right shoulder
+    400050: Bone.018
+    400052: head neck lower
+    400054: head neck upper
+    400056: leg left foot
+    400058: leg left knee
+    400060: leg left kneepad
+    400062: leg left thigh
+    400064: leg left toe a
+    400066: leg left toe b
+    400068: leg left toe c
+    400070: leg left toe d
+    400072: leg right foot
+    400074: leg right knee
+    400076: leg right kneepad
+    400078: leg right thigh
+    400080: leg right toe a
+    400082: leg right toe b
+    400084: leg right toe c
+    400086: leg right toe d
+    400088: Obelisk
+    400090: //RootNode
+    400092: Rig
+    400094: root ground
+    400096: spine lower
+    400098: spine upper
+    400100: wing left 1
+    400102: wing left a
+    400104: wing left b
+    400106: wing left c
+    400108: wing right 1
+    400110: wing right a
+    400112: wing right b
+    400114: wing right c
+    2100000: 4_Obelisk_1.0
+    4300000: Obelisk
+    9500000: //RootNode
+    13700000: Obelisk
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

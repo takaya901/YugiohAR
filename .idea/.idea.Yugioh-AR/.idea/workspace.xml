@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3596c245-20f9-40a1-b81a-3cb39ea0aaa2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Yugioh-AR/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Yugioh-AR/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Yugioh-AR/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Yugioh-AR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Yugioh-AR/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Yugioh-AR/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/README.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/anim/Main Camera.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/anim/Main Camera.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/anim/camera_anim.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/anim/camera_anim.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/blow.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/blow/blow 1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/blow/blow 1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/blow/blow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/blow/blow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/emmi_1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/emmi_1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/emmi_3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/emmi_3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/emmi_2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/emmi_2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/emmi_3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/emmi_3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/flare 1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/flare 1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/flare 2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/flare 2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/flare 3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/flare 3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/flare 4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/flare 4.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/flare.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/flares/flare.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/gem.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/gem.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/ground.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/ground/ground 1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/ground/ground 1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/ground/ground.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/ground/ground.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/lighting.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/lighting.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/particle.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/particle.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/particle_cold.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/particle_cold.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/ring_red.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/ring_red.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/sky.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/sky.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/trail_b.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/trail_b.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/trail_r.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/trail_r.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/turbulent_b.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/turbulent_b.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/turbulent_r.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/materials/turbulent_r.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/mesh.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/mesh/blow.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/mesh/blow.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/mesh/gem.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/mesh/gem.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/mesh/tris.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/mesh/tris.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/OneShot.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/OneShot/Explosion.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/OneShot/Explosion/Explode_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/OneShot/Explosion/Explode_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/OneShot/Explosion/Explode_cold.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/OneShot/Explosion/Explode_cold.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/Particle_llight_green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/Particle_llight_green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/Particle_llight_oblue.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/Particle_llight_oblue.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/Particle_llight_orange.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/Particle_llight_orange.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/Particle_llight_pink.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/Particle_llight_pink.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/Particle_llight_yel.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/Particle_llight_yel.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/blow.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/blow.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain _g.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain _g.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain_b.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain_b.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain_c.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain_c.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain_p.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain_p.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain_r.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fire_rain/Fire_rain_r.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball/Firebal_trail_r.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball/Firebal_trail_r.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball/Fireball_big_blue.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball/Fireball_big_blue.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball/Fireball_big_red.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball/Fireball_big_red.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball/Fireball_trail_b.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball/Fireball_trail_b.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flame.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flame/cold.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flame/cold.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flame/cold_b.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flame/cold_b.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flame/flame.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flame/flame.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flame/flame_green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flame/flame_green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_b.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_b.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_b_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_b_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_g.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_g.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_o.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_o.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_p.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_p.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_r.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/flare/flare_r.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem/gem.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem/gem.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem/gem_trail.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem/gem_trail.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem/gem_trail_embers.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem/gem_trail_embers.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem/gem_tris.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem/gem_tris.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem/gem_tris_trail.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/gem/gem_tris_trail.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/ligh_sphere.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/ligh_sphere.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/lighting.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/lighting.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/lighting_b.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/lighting_b.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/lighting_exp.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/lighting_exp.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/lighting_exp_fast.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/lighting_exp_fast.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/lighting_exp_fast_m.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/lighting/lighting_exp_fast_m.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWave.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWave.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWave_combo 1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWave_combo 1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWave_red.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWave_red.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWave_red_combo.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWave_red_combo.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWaveshere.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWaveshere.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWaveshere_red.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/shochWave/shockWaveshere_red.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/trowl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/trowl/EXPL1 (1).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/trowl/EXPL1 (1).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/trowl/EXPL1 (2).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/trowl/EXPL1 (2).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/trowl/EXPL1 (3).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/trowl/EXPL1 (3).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/trowl/EXPL1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/trowl/EXPL1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/scene.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/scene/LoopDemo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/scene/LoopDemo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/scene/OneShotDemo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/scene/OneShotDemo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/script.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/script/sprite_sheet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/script/sprite_sheet.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/shaders/emmision_particle.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/shaders/emmision_particle.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/shaders/face_power_particle.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/shaders/face_power_particle.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/shaders/mesh_dissolve_particel.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/shaders/mesh_dissolve_particel.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/shaders/multypower_particle.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/shaders/multypower_particle.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/cheker 1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/cheker 1.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/cheker 2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/cheker 2.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/Cold_turnulent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/Cold_turnulent.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/Grid 1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/Grid 1.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/lighting_ss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/lighting_ss.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/particle_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/particle_cloud.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/particle_cold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/particle_cold.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/red_turb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/red_turb.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/ring_red.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/ring_red.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/trail_colds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/trail_colds.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/trail_hots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/f/trail_hots.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/Lens_flare.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/Lens_flare.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/flare_blue.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/flare_blue.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/flare_green.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/flare_green.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/flare_orange.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/flare_orange.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/flare_pink.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/flare_pink.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/flare_red.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/flares/flare_red.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/fx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/fx/cl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/fx/cl.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/fx/gradient.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/fx/gradient.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/fx/gradient2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/fx/gradient2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/fx/gradient3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/textures/fx/gradient3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/Yugioh.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/Yugioh/BlueEyes_scaled.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/Yugioh/BlueEyes_scaled.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/Yugioh/DarkMagician_scaled.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/Yugioh/DarkMagician_scaled.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/Yugioh/Obelisk_scaled.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/Yugioh/Obelisk_scaled.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/About.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/About/AboutFightingUnity-chan.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/About/AboutFightingUnity-chan.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0004_CH01_AS_MAWAK.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0004_CH01_AS_MAWAK.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0025_MYA_TF_DOWN.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0025_MYA_TF_DOWN.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0029_Cha01_STL01_ScrewK01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM02_0029_Cha01_STL01_ScrewK01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM03_0005_Landing.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM03_0005_Landing.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM03_0019_HeadSpring.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM03_0019_HeadSpring.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0000_Idle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0000_Idle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0001_M_CMN_LJAB.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0001_M_CMN_LJAB.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0022_M_RISING_P.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM05_0022_M_RISING_P.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM_0012b_EH_RUN_LP_NoZ.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM_0012b_EH_RUN_LP_NoZ.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM_04_0001_RHiKick.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/FUCM_04_0001_RHiKick.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Scene_Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Scene_Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Scene_Material2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/Scene_Material2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body4.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body5.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body5.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body6.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body6.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body7.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/body7.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eye_L1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eye_L1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eye_R1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eye_R1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyebase.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyebase.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyeline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyeline.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyeline1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/eyeline1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/face2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/hair3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/mat_cheek.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/mat_cheek.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/skin1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Materials/skin1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animator.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animator/FightingUnityChan_free.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animator/FightingUnityChan_free.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/body.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/body.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_L1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_L1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_R1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_R1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyebase.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyebase.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyeline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyeline.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/face.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/face.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/hair.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/hair.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/mat_cheek.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/mat_cheek.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/skin1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/skin1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/unitychan.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/unitychan.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Prefabs/Package04_animChanger.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Prefabs/Package04_animChanger.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scene.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scene/FUCMAnimationPreviewFree.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scene/FUCMAnimationPreviewFree.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/CameraController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/CameraController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/IdleChanger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/IdleChanger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes/BlueEyes.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes/BlueEyes.dae.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes/m31_BlueE_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes/m31_BlueE_A.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes/m31_BlueE_B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes/m31_BlueE_B.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes/m31_shading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes/m31_shading.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes/m31_specular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyes/m31_specular.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Blue-Eyes White Dragon.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Blue-Eyes White Dragon.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Blue-Eyes White Dragon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Blue-Eyes White Dragon.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Blue-Eyes White Dragon.jpg_specular.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Blue-Eyes White Dragon.jpg_specular.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/BlueEyesAnimController.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/BlueEyesAnimController.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Card Back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Card Back.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Card Back.jpg_specular.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Card Back.jpg_specular.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Card Side.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/BlueEyesAnim/Card Side.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/DarkMagician.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/DarkMagician/DarkMagician.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/DarkMagician/DarkMagician.dae.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/DarkMagician/m002_bm01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/DarkMagician/m002_bm01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/DarkMagician/m002_bm02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/DarkMagician/m002_bm02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/DarkMagician/m002_bm03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/DarkMagician/m002_bm03.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Obelisk.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Obelisk/Obelisk El Torturador.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Obelisk/Obelisk El Torturador.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Obelisk/obelsik the tormentor texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Obelisk/obelsik the tormentor texture.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie@attack.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie@attack.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie@fallingback.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie@fallingback.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie@idle.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie@idle.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie@walk.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie@walk.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie@walk_in_place.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/Zombie@walk_in_place.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/attack.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/attack.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/fallingback.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/fallingback.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/idle.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/idle.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/walk.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/walk.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/walk_in_place.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Animations/walk_in_place.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/ModelFBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/ModelFBX/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/ModelFBX/Materials/Zombie.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/ModelFBX/Materials/Zombie.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/ModelFBX/Zombie.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/ModelFBX/Zombie.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Prefabs/Zombie.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Zombie/Prefabs/Zombie.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Test.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Test.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AnimController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AnimController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AttackOnTapped.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AttackOnTapped.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/Yugioh.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/Yugioh.dat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/Yugioh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/Yugioh.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SummonEffect.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SummonEffect.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Databases.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Databases/Emulator.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Databases/Emulator/VuforiaEmulator.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Databases/Emulator/VuforiaEmulator.dat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Databases/Emulator/VuforiaEmulator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Databases/Emulator/VuforiaEmulator.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Databases/ForPrint.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Databases/ForPrint/Emulator.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Databases/ForPrint/Emulator/Emulator Ground Plane.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Databases/ForPrint/Emulator/Emulator Ground Plane.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Editor/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Editor/Scripts/OpenSourceInitializer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Editor/Scripts/OpenSourceInitializer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Editor/Scripts/VuforiaEditorScripts.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Editor/Scripts/VuforiaEditorScripts.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Fonts/SourceSansPro.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Fonts/SourceSansPro.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/CloudRecoTarget.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/CloudRecoTarget.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/ColoredLines.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/ColoredLines.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/DefaultTarget.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/DefaultTarget.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/DepthMask.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/DepthMask.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/GroundPlaneIndicator.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/GroundPlaneIndicator.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/GroundPlaneReference.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/GroundPlaneReference.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/GuideView2D.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/GuideView2D.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/MidAirIndicator.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/MidAirIndicator.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/MidAirReference.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/MidAirReference.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/OutlineOpaque.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/OutlineOpaque.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/StandardCutout.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/StandardCutout.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/UserDefinedTarget.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/UserDefinedTarget.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/VirtualButtonPreviewMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Materials/VirtualButtonPreviewMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Prefabs/DefaultMidAirIndicator.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Prefabs/DefaultMidAirIndicator.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Prefabs/DefaultPlaneIndicator.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Prefabs/DefaultPlaneIndicator.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Prefabs/GroundPlaneReference.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Prefabs/GroundPlaneReference.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Prefabs/MidAirReference.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Prefabs/MidAirReference.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Scripts/VuforiaScripts.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Scripts/VuforiaScripts.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/BrightTexture.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/BrightTexture.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/CameraDiffuse.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/CameraDiffuse.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/ClippingMask.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/ClippingMask.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/ColoredLines.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/ColoredLines.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/DepthContour.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/DepthContour.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/DepthMask.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/DepthMask.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/OutlineOpaque.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/OutlineOpaque.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/Text3D.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/Text3D.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/VertexLitWithZ.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/VertexLitWithZ.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/VideoBackground.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Shaders/VideoBackground.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/CloudRecoTarget.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/CloudRecoTarget.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/GroundPlaneReference.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/GroundPlaneReference.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/MidAirReference.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/MidAirReference.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/Reticle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/Reticle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/UserDefinedTarget.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/UserDefinedTarget.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/VideoBackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/VideoBackground.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/VirtualButtonPreview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/Textures/VirtualButtonPreview.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Vuforia/version.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Dark Magician/Model.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Dark Magician/Model.smd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Dark Magician/MotionA.smd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Dark Magician/MotionB.smd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Dark Magician/MotionC.smd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Dark Magician/MotionD.smd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Dark Magician/m002_bm01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Dark Magician/m002_bm02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Dark Magician/m002_bm03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/Animations/m00_Attack.psa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/Animations/m00_Death.psa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/Animations/m00_Summon.psa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/Animations/m00_Wait.psa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/StardustDragon.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/m00_StardustD_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/m00_StardustD_B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/m00_StardustD_C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/m00_StardustD_H.md5mesh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/m00_shading_a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/StardustD_H/specular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wii - Yu-Gi-Oh 5Ds Wheelie Breakers - Blue Eyes White Dragon/BlueEyes/BlueEyes.dae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wii - Yu-Gi-Oh 5Ds Wheelie Breakers - Blue Eyes White Dragon/BlueEyes/BlueEyes.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wii - Yu-Gi-Oh 5Ds Wheelie Breakers - Blue Eyes White Dragon/BlueEyes/BlueEyes.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wii - Yu-Gi-Oh 5Ds Wheelie Breakers - Blue Eyes White Dragon/BlueEyes/BlueEyes.psk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wii - Yu-Gi-Oh 5Ds Wheelie Breakers - Blue Eyes White Dragon/BlueEyes/BlueEyes.smd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wii - Yu-Gi-Oh 5Ds Wheelie Breakers - Blue Eyes White Dragon/BlueEyes/m31_BlueE_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wii - Yu-Gi-Oh 5Ds Wheelie Breakers - Blue Eyes White Dragon/BlueEyes/m31_BlueE_B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wii - Yu-Gi-Oh 5Ds Wheelie Breakers - Blue Eyes White Dragon/BlueEyes/m31_shading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wii - Yu-Gi-Oh 5Ds Wheelie Breakers - Blue Eyes White Dragon/BlueEyes/m31_specular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wii - Yu-Gi-Oh 5Ds Wheelie Breakers - Blue Eyes White Dragon/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/source/Blue-Eyes White Dragon.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/source/Blue-Eyes White Dragon/Blue-Eyes White Dragon.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/source/Blue-Eyes White Dragon/Blue-Eyes White Dragon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/source/Blue-Eyes White Dragon/Blue-Eyes White Dragon.jpg_specular.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/source/Blue-Eyes White Dragon/Card Back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/source/Blue-Eyes White Dragon/Card Back.jpg_specular.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/source/Blue-Eyes White Dragon/Card Side.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/textures/Blue-Eyes White Dragon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/textures/Blue-Eyes_White_Dragon.jpg_specular.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/textures/Card Back.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/textures/Card Back.jpg_specular.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/animated-blue-eyes-white-dragon-yugioh/textures/Card Side.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/obelisk-el-torturador-yu-gi-oh/source/Obelisk.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/obelisk-el-torturador-yu-gi-oh/source/Obelisk/Obelisk El Torturador.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/obelisk-el-torturador-yu-gi-oh/source/Obelisk/obelsik the tormentor texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/obelisk-el-torturador-yu-gi-oh/textures/obelsik the tormentor texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QCAR/somedata16" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="970849860">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="759" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="759" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackOnTapped.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+              <folding>
+                <marker date="1543987036810" expanded="false" signature="6:78" ph="..." />
+                <marker date="1543987036810" expanded="true" signature="123:3694" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="277:318" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="418:1969" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="448:622" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="699:1262" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="906:1252" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="1016:1238" ph="/* _breath.transform.Translate((dest - _breath.transform.position) * 0.1f); ... */" />
+                <marker date="1543987036810" expanded="true" signature="1340:1624" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="1547:1614" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="1709:1963" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="1886:1953" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="2043:2869" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="2100:2822" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="2186:2812" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="2341:2798" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="2563:2780" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="2690:2758" ph="{...}" />
+                <marker date="1543987036810" expanded="true" signature="2871:3692" ph="/* bool TouchJudge() ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AttackOnTapped.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/AnimController.cs" />
+        <option value="$PROJECT_DIR$/Assets/AttackOnTapped.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AttackOnTapped.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3596c245-20f9-40a1-b81a-3cb39ea0aaa2" name="Default Changelist" comment="" />
+      <created>1543931300144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543931300144</updated>
+      <workItem from="1543931303167" duration="7424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7424000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.18597998" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/AnimController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AttackOnTapped.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackOnTapped.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <marker date="1543987036810" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543987036810" expanded="true" signature="123:3694" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="277:318" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="418:1969" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="448:622" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="699:1262" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="906:1252" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="1016:1238" ph="/* _breath.transform.Translate((dest - _breath.transform.position) * 0.1f); ... */" />
+            <marker date="1543987036810" expanded="true" signature="1340:1624" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="1547:1614" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="1709:1963" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="1886:1953" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="2043:2869" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="2100:2822" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="2186:2812" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="2341:2798" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="2563:2780" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="2690:2758" ph="{...}" />
+            <marker date="1543987036810" expanded="true" signature="2871:3692" ph="/* bool TouchJudge() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

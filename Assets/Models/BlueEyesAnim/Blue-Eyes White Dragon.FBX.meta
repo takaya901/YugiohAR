@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 94d621c2b64b6415a84c87fd8e5d09fb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Blue-Eyes White Dragon Card
+    100004: Body
+    100006: Head
+    100008: Left Arm
+    100010: Left Leg
+    100012: Left Wing
+    100014: Neck
+    100016: Right Arm
+    100018: Right Leg
+    100020: Right Wing
+    100022: Tail
+    400000: //RootNode
+    400002: Blue-Eyes White Dragon Card
+    400004: Body
+    400006: Head
+    400008: Left Arm
+    400010: Left Leg
+    400012: Left Wing
+    400014: Neck
+    400016: Right Arm
+    400018: Right Leg
+    400020: Right Wing
+    400022: Tail
+    2100000: 01 - Default
+    2100002: Blue-Eyes White Dragon
+    2100004: 03 - Default
+    2100006: Blue
+    2100008: 13 - Default
+    2100010: 08 - Default
+    2100012: 07 - Default
+    2100014: 09 - Default
+    2300000: Blue-Eyes White Dragon Card
+    2300002: Body
+    2300004: Head
+    2300006: Left Arm
+    2300008: Left Leg
+    2300010: Left Wing
+    2300012: Neck
+    2300014: Right Arm
+    2300016: Right Leg
+    2300018: Right Wing
+    2300020: Tail
+    3300000: Blue-Eyes White Dragon Card
+    3300002: Body
+    3300004: Head
+    3300006: Left Arm
+    3300008: Left Leg
+    3300010: Left Wing
+    3300012: Neck
+    3300014: Right Arm
+    3300016: Right Leg
+    3300018: Right Wing
+    3300020: Tail
+    4300000: Blue-Eyes White Dragon Card
+    4300002: Body
+    4300004: Neck
+    4300006: Head
+    4300008: Right Wing
+    4300010: Right Arm
+    4300012: Left Arm
+    4300014: Tail
+    4300016: Right Leg
+    4300018: Left Wing
+    4300020: Left Leg
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

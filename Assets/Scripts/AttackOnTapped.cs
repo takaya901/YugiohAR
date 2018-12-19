@@ -10,14 +10,8 @@ public class AttackOnTapped : MonoBehaviour
     static readonly float BREATH_SPEED = 1.0f;
     GameObject _breathDest;
     bool _isTargetSelected;
-    
-    public void OnClick()
-    {
-        Debug.Log("tapped");
-    }
 
     //青眼がタッチされたらブレス生成，その後対象がタッチされたらブレス放出
-    //http://nn-hokuson.hatenablog.com/entry/2018/04/04/212402#ARオブジェクトをタッチしたい
     void Update () 
     {
         //対象が設定されていたらブレス放出
@@ -25,6 +19,7 @@ public class AttackOnTapped : MonoBehaviour
             var step = BREATH_SPEED * Time.deltaTime;
             _breath.transform.position = Vector3.MoveTowards(_breath.transform.position, _breathDest.transform.position, step);
 
+            //ブレスが到達したら対象とブレスを消去
             if (_breath.transform.position == _breathDest.transform.position) {
                 Instantiate(_outEffect, _breathDest.transform.position, Quaternion.identity);
                 Destroy(_breathDest);
@@ -58,6 +53,8 @@ public class AttackOnTapped : MonoBehaviour
         #endregion
     }
 
+    //タッチされたオブジェクトを取得
+    //http://nn-hokuson.hatenablog.com/entry/2018/04/04/212402#ARオブジェクトをタッチしたい
     GameObject GetTouchedObject()
     {
         var touch = Input.GetTouch(0);

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3596c245-20f9-40a1-b81a-3cb39ea0aaa2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Yugioh-AR/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Yugioh-AR/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Yugioh-AR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Yugioh-AR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/AttackOnTapped.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AttackOnTapped.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SummonEffect.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SummonEffect.prefab.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,18 +17,19 @@
     <session id="970849860">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1219" />
+          <entry key="cs" value="1259" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1219" />
+          <entry key="C#" value="1259" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,27 +43,35 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1736082913">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackOnTapped.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="96">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
-                <marker date="1544006676958" expanded="false" signature="6:78" ph="..." />
-                <marker date="1544006676958" expanded="true" signature="123:2263" ph="{...}" />
-                <marker date="1544006676958" expanded="true" signature="357:398" ph="{...}" />
-                <marker date="1544006676958" expanded="true" signature="404:519" ph="/* 青眼がタッチされたらブレス生成，その後対象がタッチされたらブレス放出 ... */" />
-                <marker date="1544006676958" expanded="true" signature="539:1921" ph="{...}" />
-                <marker date="1544006676958" expanded="true" signature="604:1058" ph="{...}" />
-                <marker date="1544006676958" expanded="true" signature="867:1048" ph="{...}" />
-                <marker date="1544006676958" expanded="true" signature="1278:1368" ph="{...}" />
-                <marker date="1544006676958" expanded="true" signature="1462:1521" ph="{...}" />
-                <marker date="1544006676958" expanded="false" signature="1531:1915" ph="Editorデバッグ用" />
-                <marker date="1544006676958" expanded="true" signature="1551:1896" ph="/* if (Input.GetMouseButtonDown(0) &amp;&amp; !_breath.gameObject.activeSelf) ... */" />
-                <marker date="1544006676958" expanded="true" signature="1956:2261" ph="{...}" />
+                <marker date="1544075780791" expanded="false" signature="6:78" ph="..." />
+                <marker date="1544075780791" expanded="true" signature="123:2246" ph="{...}" />
+                <marker date="1544075780791" expanded="true" signature="388:1803" ph="{...}" />
+                <marker date="1544075780791" expanded="true" signature="453:940" ph="{...}" />
+                <marker date="1544075780791" expanded="true" signature="749:930" ph="{...}" />
+                <marker date="1544075780791" expanded="true" signature="1160:1250" ph="{...}" />
+                <marker date="1544075780791" expanded="true" signature="1344:1403" ph="{...}" />
+                <marker date="1544075780791" expanded="false" signature="1413:1797" ph="Editorデバッグ用" />
+                <marker date="1544075780791" expanded="true" signature="1433:1778" ph="/* if (Input.GetMouseButtonDown(0) &amp;&amp; !_breath.gameObject.activeSelf) ... */" />
+                <marker date="1544075780791" expanded="true" signature="1809:1905" ph="/* タッチされたオブジェクトを取得 ... */" />
+                <marker date="1544075780791" expanded="true" signature="1939:2244" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -96,11 +104,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
     </panes>
@@ -148,12 +156,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543931300144</updated>
-      <workItem from="1543931303167" duration="13022000" />
+      <workItem from="1543931303167" duration="13274000" />
+      <workItem from="1544275009471" duration="359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13022000" />
+    <option name="totallyTimeSpent" value="13633000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -165,19 +174,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.1502146" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.15236051" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -185,6 +187,13 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Errors In Solution" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -207,37 +216,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/AnimController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/AttackOnTapped.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AnimController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/AttackOnTapped.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackOnTapped.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        <state relative-caret-position="96">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
-            <marker date="1544006676958" expanded="false" signature="6:78" ph="..." />
-            <marker date="1544006676958" expanded="true" signature="123:2263" ph="{...}" />
-            <marker date="1544006676958" expanded="true" signature="357:398" ph="{...}" />
-            <marker date="1544006676958" expanded="true" signature="404:519" ph="/* 青眼がタッチされたらブレス生成，その後対象がタッチされたらブレス放出 ... */" />
-            <marker date="1544006676958" expanded="true" signature="539:1921" ph="{...}" />
-            <marker date="1544006676958" expanded="true" signature="604:1058" ph="{...}" />
-            <marker date="1544006676958" expanded="true" signature="867:1048" ph="{...}" />
-            <marker date="1544006676958" expanded="true" signature="1278:1368" ph="{...}" />
-            <marker date="1544006676958" expanded="true" signature="1462:1521" ph="{...}" />
-            <marker date="1544006676958" expanded="false" signature="1531:1915" ph="Editorデバッグ用" />
-            <marker date="1544006676958" expanded="true" signature="1551:1896" ph="/* if (Input.GetMouseButtonDown(0) &amp;&amp; !_breath.gameObject.activeSelf) ... */" />
-            <marker date="1544006676958" expanded="true" signature="1956:2261" ph="{...}" />
+            <marker date="1544075780791" expanded="false" signature="6:78" ph="..." />
+            <marker date="1544075780791" expanded="true" signature="123:2246" ph="{...}" />
+            <marker date="1544075780791" expanded="true" signature="388:1803" ph="{...}" />
+            <marker date="1544075780791" expanded="true" signature="453:940" ph="{...}" />
+            <marker date="1544075780791" expanded="true" signature="749:930" ph="{...}" />
+            <marker date="1544075780791" expanded="true" signature="1160:1250" ph="{...}" />
+            <marker date="1544075780791" expanded="true" signature="1344:1403" ph="{...}" />
+            <marker date="1544075780791" expanded="false" signature="1413:1797" ph="Editorデバッグ用" />
+            <marker date="1544075780791" expanded="true" signature="1433:1778" ph="/* if (Input.GetMouseButtonDown(0) &amp;&amp; !_breath.gameObject.activeSelf) ... */" />
+            <marker date="1544075780791" expanded="true" signature="1809:1905" ph="/* タッチされたオブジェクトを取得 ... */" />
+            <marker date="1544075780791" expanded="true" signature="1939:2244" ph="{...}" />
           </folding>
         </state>
       </provider>
